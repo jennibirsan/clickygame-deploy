@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clickygame-deploy/static/css/main.0c34a517.chunk.css",
+    "main.js": "/clickygame-deploy/static/js/main.cb6f057d.chunk.js",
+    "main.js.map": "/clickygame-deploy/static/js/main.cb6f057d.chunk.js.map",
+    "runtime~main.js": "/clickygame-deploy/static/js/runtime~main.7223d8d6.js",
+    "runtime~main.js.map": "/clickygame-deploy/static/js/runtime~main.7223d8d6.js.map",
+    "static/js/2.5f124323.chunk.js": "/clickygame-deploy/static/js/2.5f124323.chunk.js",
+    "static/js/2.5f124323.chunk.js.map": "/clickygame-deploy/static/js/2.5f124323.chunk.js.map",
+    "index.html": "/clickygame-deploy/index.html",
+    "precache-manifest.94ac461ec2e7c7d696a675f0f0829c26.js": "/clickygame-deploy/precache-manifest.94ac461ec2e7c7d696a675f0f0829c26.js",
+    "service-worker.js": "/clickygame-deploy/service-worker.js",
+    "static/css/main.0c34a517.chunk.css.map": "/clickygame-deploy/static/css/main.0c34a517.chunk.css.map",
+    "static/media/style.css": "/clickygame-deploy/static/media/centralperk.47207ce0.jpg"
+  }
+}
